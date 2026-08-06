@@ -1,0 +1,7 @@
+torch
+torchvision
+customtkinter
+Pillow
+opencv-python
+numpy
+requests
